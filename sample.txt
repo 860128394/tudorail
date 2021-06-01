@@ -1,2 +1,3 @@
 狗子都会的git命令
 add
+commit 记录索引状态
